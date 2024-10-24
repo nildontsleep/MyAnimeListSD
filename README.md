@@ -71,9 +71,3 @@ Contributions are welcome! Please create a pull request or open an issue for any
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### Notes:
-- Replace `path_to_your_image.png` with the actual path to the preview image of your application.
-- Fill in the counts in the statistics section dynamically when generating reports, or provide placeholder text in the table if needed.
-- Ensure to update the contact section with your actual email if you want to receive feedback.
