@@ -44,8 +44,9 @@
 
 Check out Simp Detector in action with these sample outputs:
 
-![Preview of Simp Detector Output](https://github.com/user-attachments/assets/cf74767c-650f-4394-85c5-bc5cea002783)
-![Sample Analysis](https://github.com/user-attachments/assets/60a37fb2-ac0e-4c13-9a9e-9cfd58da2b83)
+![image](https://github.com/user-attachments/assets/cf74767c-650f-4394-85c5-bc5cea002783)
+![image](https://github.com/user-attachments/assets/4b78a354-4ba8-44e6-be90-9976f5c244b4)
+
 
 ## 🚀 Installation
 
