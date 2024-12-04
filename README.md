@@ -45,7 +45,8 @@
 Check out Simp Detector in action with these sample outputs:
 
 ![image](https://github.com/user-attachments/assets/cf74767c-650f-4394-85c5-bc5cea002783)
-![image](https://github.com/user-attachments/assets/4b78a354-4ba8-44e6-be90-9976f5c244b4)
+![image](https://github.com/user-attachments/assets/1918ab72-2bb9-4fa0-8736-6fd734decfa4)
+
 
 
 ## 🚀 Installation
